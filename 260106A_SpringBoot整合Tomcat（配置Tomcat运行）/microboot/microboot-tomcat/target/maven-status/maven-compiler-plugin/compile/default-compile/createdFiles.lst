@@ -1,0 +1,8 @@
+cn\mldn\microboot\controller\MemberController.class
+cn\mldn\microboot\config\ErrorPageConfig.class
+cn\mldn\microboot\util\controller\AbstractBaseController.class
+cn\mldn\microboot\StartSpringBootMain.class
+cn\mldn\microboot\config\ErrorPageConfig$1.class
+cn\mldn\microboot\advice\GlobalExceptionHandler$1ErrorInfo.class
+cn\mldn\microboot\advice\GlobalExceptionHandler.class
+cn\mldn\microboot\vo\Member.class

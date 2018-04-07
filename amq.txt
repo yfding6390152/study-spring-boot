@@ -1,0 +1,8 @@
+<plugins>
+        <simpleAuthenticationPlugin>
+         <users>
+          <authenticationUser username="mldnjava" password="hello" groups="admin"/>
+         </users>
+        </simpleAuthenticationPlugin>
+      </plugins>
+

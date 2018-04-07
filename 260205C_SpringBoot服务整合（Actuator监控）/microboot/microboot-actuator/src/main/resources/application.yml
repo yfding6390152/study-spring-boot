@@ -1,0 +1,14 @@
+server:
+  port: 80
+management:
+  security:
+    enabled: true
+spring:
+  messages:
+    basename: i18n/Messages,i18n/Pages
+#info:
+#  app.name: mldn-microboot
+#  app.version: v1.0.0
+#  company.name: www.mldn.cn
+#  pom.artifactId: $project.artifactId$
+#  pom.version: $project.version$
